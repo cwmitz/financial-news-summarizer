@@ -1,1 +1,1 @@
-# financial-news-summarizer
+# Financial News Summarizer
